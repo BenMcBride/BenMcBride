@@ -4,8 +4,9 @@
   <p align="center">
   <a href="https://benjaminmcbride.com/"><img src="https://github.com/BenMcBride/BenMcBride/assets/96863998/6a6f575a-f5a9-4deb-a818-b3e0752ad61c" alt="Github Banner"></a>
   </p>
-  
-<img align="right" src="https://github.com/BenMcBride/BenMcBride/assets/96863998/b436599e-dbec-4369-b71e-6e893c3bfcb8" alt="Matrix Symbols"/>
+  <p>
+    <img align="right" src="https://github.com/BenMcBride/BenMcBride/assets/96863998/b436599e-dbec-4369-b71e-6e893c3bfcb8" alt="Matrix Symbols"/>
+  </p>
 
 <!-- TECH LANGUAGES & TOOLS -->
   <h2 align="center">Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
