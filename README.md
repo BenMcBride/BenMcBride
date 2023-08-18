@@ -1,6 +1,5 @@
 <div style="font-family: 'Fira Code iscript', 'Roboto'">
-  <!-- BANNER LINK TO PORTFOLIO -->
-  <!--  https://mariamcbride.github.io/portfolio/  -->
+
   <p align="center">
   <a href="https://benjaminmcbride.com/"><img src="https://github.com/BenMcBride/BenMcBride/assets/96863998/6a6f575a-f5a9-4deb-a818-b3e0752ad61c" alt="Github Banner"></a>
   </p>
@@ -46,7 +45,7 @@
   ## <img src="https://media.giphy.com/media/1BeE7pCRWrvxJgdTib/giphy.gif" width="50"> A few things about me... <img src="https://media.giphy.com/media/Mme4s8S3cm7fi/giphy.gif" width="50">
   
   ```javascript
-  const benjamin = {
+  const Benjamin = {
       pronouns: "He" | "Him",
       askMeAbout: ["web dev", "javascript", "mobile apps", "anime", "space"],
       preferredCode: ["HTML5", "CSS3", "Javascript"],
